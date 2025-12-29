@@ -40,7 +40,7 @@ CPU scheduling is a fundamental concept in operating systems that determines how
 ```
 cpu-scheduling-simulator/
 │
-├── scheduling.py   # Implementation of scheduling algorithms
+├── scheduler.py   # Implementation of scheduling algorithms
 └── README.md       # Project documentation
 ```
 
@@ -53,7 +53,7 @@ cpu-scheduling-simulator/
 3. Run the program using:
 
 ```bash
-python scheduling.py
+python scheduler.py
 ```
 
 ---
